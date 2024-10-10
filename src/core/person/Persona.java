@@ -21,5 +21,9 @@ public abstract class Persona {
         this.telefono = telefono;
         this.email = email;
     }
+
+    public String getNombre() {
+        return nombre;
+    }
     
 }

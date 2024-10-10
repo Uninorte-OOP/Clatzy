@@ -4,6 +4,9 @@
  */
 package main;
 
+import core.clatzy.Clatzy;
+import java.time.LocalDate;
+
 /**
  *
  * @author edangulo
